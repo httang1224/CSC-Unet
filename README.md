@@ -32,4 +32,6 @@ git clone https://github.com/NZWANG/CSC-Unet.git
 ```bash
 python train.py
 ```
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=NZWANG/CSC-Unet&type=Date)](https://star-history.com/#NZWANG/CSC-Unet&Date)
